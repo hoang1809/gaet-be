@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_about_histories",
+  "info": {
+    "displayName": "history"
+  },
+  "options": {},
+  "attributes": {
+    "year": {
+      "type": "string",
+      "required": true
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

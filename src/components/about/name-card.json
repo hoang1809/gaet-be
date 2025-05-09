@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_about_name_cards",
+  "info": {
+    "displayName": "Name card"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

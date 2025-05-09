@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_business_activities",
+  "info": {
+    "displayName": "activity"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

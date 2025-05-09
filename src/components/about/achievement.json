@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_about_achievements",
+  "info": {
+    "displayName": "achievement"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "time": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}
